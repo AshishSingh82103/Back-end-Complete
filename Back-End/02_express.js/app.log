@@ -1,0 +1,10 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"4.972\"}","timestamp":"2025-03-18T03:00:47.265Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.834\"}","timestamp":"2025-03-18T03:00:59.010Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"2.933\"}","timestamp":"2025-03-18T03:02:09.757Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.268\"}","timestamp":"2025-03-18T03:02:16.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.516\"}","timestamp":"2025-03-18T03:02:41.894Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"1.707\"}","timestamp":"2025-03-18T03:05:44.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-03-18T03:05:52.198Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.580\"}","timestamp":"2025-03-18T03:05:52.200Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is an warn message","timestamp":"2025-03-18T03:06:15.063Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"4.639\"}","timestamp":"2025-03-18T03:06:15.069Z"}
